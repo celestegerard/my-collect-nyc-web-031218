@@ -1,9 +1,4 @@
 def my_collect(students)
-  newArray = []
-breakApart = students.join(" ")
-
-newArray << breakApart.split
-  i = 0
 
 while i < newArray.length  
   yield array[0]
