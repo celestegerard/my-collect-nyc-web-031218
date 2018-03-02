@@ -14,9 +14,3 @@ end
 array
 end
 
-newArray.collect do |names|
-  delete_names.even?
-  
-  yeilding(array) .collect
-  array.collect do |names|
-  delete_names.even?
