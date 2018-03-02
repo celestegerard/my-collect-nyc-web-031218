@@ -1,5 +1,5 @@
 def my_collect(array)
-  newArray = 0
+  newArray = []
   i = 0
   
   
